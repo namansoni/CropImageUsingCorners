@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/crop_image_using_corners.iml" filepath="$PROJECT_DIR$/crop_image_using_corners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/crop_image_using_corners_android.iml" filepath="$PROJECT_DIR$/android/crop_image_using_corners_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/crop_image_using_corners_example_android.iml" filepath="$PROJECT_DIR$/example/android/crop_image_using_corners_example_android.iml" />
+    </modules>
+  </component>
+</project>
