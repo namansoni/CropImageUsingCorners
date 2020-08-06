@@ -1,8 +1,7 @@
 name: crop_image_using_corners
 description: A new Flutter plugin.
 version: 0.0.1
-author:
-homepage:
+homepage: https://github.com/namansoni/CropImageUsingCorners
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -11,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  image_size_getter:
+  image_size_getter: ^0.1.1
 
 dev_dependencies:
   flutter_test:
