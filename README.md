@@ -2,4 +2,4 @@
 
 Currently this is supported for Android only.
 
-![](images/screenshot1.jpeg)
+<img src="images/screenshot1.jpeg" width="350">
